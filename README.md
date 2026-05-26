@@ -35,7 +35,7 @@ La app cliente NO consulta la base de datos directamente.
 Toda la comunicación se realiza mediante API REST:
 
 ```text
-http://10.10.50.21:3000/api
+API_BASE_URL
 Funcionalidades principales
 Operación QR por máquina
 Escaneo QR industrial
