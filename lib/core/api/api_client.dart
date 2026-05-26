@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 class ApiClient {
   static const String baseUrl = String.fromEnvironment(
     'API_BASE_URL',
-    defaultValue: 'http://10.10.50.21:3000/api',
+    defaultValue: 'http://localhost:3000/api',
   );
   Future<dynamic> get(String endpoint) async {
     final response = await http.get(
