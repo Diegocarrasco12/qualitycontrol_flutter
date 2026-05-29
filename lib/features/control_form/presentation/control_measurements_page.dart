@@ -185,6 +185,7 @@ class _ControlMeasurementsPageState extends State<ControlMeasurementsPage> {
       'procesoId': widget.controlContext.processId,
       'maquinaId': widget.controlContext.machineId,
       'formularioId': widget.controlContext.formId,
+      'area': widget.controlContext.operatorArea,
       'np': widget.np,
       'codigoProducto': _productCode,
       'descripcionProducto': _productDescription,

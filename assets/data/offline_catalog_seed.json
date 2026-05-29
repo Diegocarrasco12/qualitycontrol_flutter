@@ -569,43 +569,16 @@
             "formId": 2,
             "formName": "Formulario Control Emplacado",
             "parametrosVisuales": [
-                {
-                    "id": 15,
-                    "proceso_id": 2,
-                    "nombre": "Deslaminado (Separación P-M)",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 16,
-                    "proceso_id": 2,
-                    "nombre": "Soplado en Pliego",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 17,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Severa",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 18,
-                    "proceso_id": 2,
-                    "nombre": "Alineación Pliego-Monotapa",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 19,
-                    "proceso_id": 2,
-                    "nombre": "Desgarre del Adhesivo",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 20,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Leve",
-                    "criticidad": "menor"
-                }
-            ],
+                { "id": 15, "proceso_id": 2, "nombre": "Deslaminado (Separación P-M)", "criticidad": "critico" },
+                { "id": 16, "proceso_id": 2, "nombre": "Soplado en Pliego", "criticidad": "critico" },
+                { "id": 17, "proceso_id": 2, "nombre": "Curvatura Severa", "criticidad": "critico" },
+                { "id": 83, "proceso_id": 2, "nombre": "Defectos de impresión", "criticidad": "critico" },
+                { "id": 84, "proceso_id": 2, "nombre": "Pegado débil", "criticidad": "critico" },
+                { "id": 85, "proceso_id": 2, "nombre": "Sentido incorrecto fibra cartulina", "criticidad": "critico" },
+                { "id": 18, "proceso_id": 2, "nombre": "Alineación Pliego-Monotapa", "criticidad": "mayor" },
+                { "id": 86, "proceso_id": 2, "nombre": "Sin Desgarre Adhesivo", "criticidad": "mayor" },
+                { "id": 20, "proceso_id": 2, "nombre": "Curvatura Leve", "criticidad": "menor" }
+              ],
             "materiales": [
                 {
                     "id": 1,
@@ -770,43 +743,16 @@
             "formId": 2,
             "formName": "Formulario Control Emplacado",
             "parametrosVisuales": [
-                {
-                    "id": 15,
-                    "proceso_id": 2,
-                    "nombre": "Deslaminado (Separación P-M)",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 16,
-                    "proceso_id": 2,
-                    "nombre": "Soplado en Pliego",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 17,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Severa",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 18,
-                    "proceso_id": 2,
-                    "nombre": "Alineación Pliego-Monotapa",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 19,
-                    "proceso_id": 2,
-                    "nombre": "Desgarre del Adhesivo",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 20,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Leve",
-                    "criticidad": "menor"
-                }
-            ],
+                { "id": 15, "proceso_id": 2, "nombre": "Deslaminado (Separación P-M)", "criticidad": "critico" },
+                { "id": 16, "proceso_id": 2, "nombre": "Soplado en Pliego", "criticidad": "critico" },
+                { "id": 17, "proceso_id": 2, "nombre": "Curvatura Severa", "criticidad": "critico" },
+                { "id": 83, "proceso_id": 2, "nombre": "Defectos de impresión", "criticidad": "critico" },
+                { "id": 84, "proceso_id": 2, "nombre": "Pegado débil", "criticidad": "critico" },
+                { "id": 85, "proceso_id": 2, "nombre": "Sentido incorrecto fibra cartulina", "criticidad": "critico" },
+                { "id": 18, "proceso_id": 2, "nombre": "Alineación Pliego-Monotapa", "criticidad": "mayor" },
+                { "id": 86, "proceso_id": 2, "nombre": "Sin Desgarre Adhesivo", "criticidad": "mayor" },
+                { "id": 20, "proceso_id": 2, "nombre": "Curvatura Leve", "criticidad": "menor" }
+              ],
             "materiales": [
                 {
                     "id": 1,
@@ -971,43 +917,16 @@
             "formId": 2,
             "formName": "Formulario Control Emplacado",
             "parametrosVisuales": [
-                {
-                    "id": 15,
-                    "proceso_id": 2,
-                    "nombre": "Deslaminado (Separación P-M)",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 16,
-                    "proceso_id": 2,
-                    "nombre": "Soplado en Pliego",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 17,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Severa",
-                    "criticidad": "critico"
-                },
-                {
-                    "id": 18,
-                    "proceso_id": 2,
-                    "nombre": "Alineación Pliego-Monotapa",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 19,
-                    "proceso_id": 2,
-                    "nombre": "Desgarre del Adhesivo",
-                    "criticidad": "mayor"
-                },
-                {
-                    "id": 20,
-                    "proceso_id": 2,
-                    "nombre": "Curvatura Leve",
-                    "criticidad": "menor"
-                }
-            ],
+                { "id": 15, "proceso_id": 2, "nombre": "Deslaminado (Separación P-M)", "criticidad": "critico" },
+                { "id": 16, "proceso_id": 2, "nombre": "Soplado en Pliego", "criticidad": "critico" },
+                { "id": 17, "proceso_id": 2, "nombre": "Curvatura Severa", "criticidad": "critico" },
+                { "id": 83, "proceso_id": 2, "nombre": "Defectos de impresión", "criticidad": "critico" },
+                { "id": 84, "proceso_id": 2, "nombre": "Pegado débil", "criticidad": "critico" },
+                { "id": 85, "proceso_id": 2, "nombre": "Sentido incorrecto fibra cartulina", "criticidad": "critico" },
+                { "id": 18, "proceso_id": 2, "nombre": "Alineación Pliego-Monotapa", "criticidad": "mayor" },
+                { "id": 86, "proceso_id": 2, "nombre": "Sin Desgarre Adhesivo", "criticidad": "mayor" },
+                { "id": 20, "proceso_id": 2, "nombre": "Curvatura Leve", "criticidad": "menor" }
+              ],
             "materiales": [
                 {
                     "id": 1,

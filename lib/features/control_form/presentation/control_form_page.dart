@@ -125,6 +125,7 @@ class _ControlFormPageState extends State<ControlFormPage> {
         'procesoId': widget.controlContext.processId,
         'maquinaId': widget.controlContext.machineId,
         'formularioId': widget.controlContext.formId,
+        'area': widget.controlContext.operatorArea,
         'np': _npController.text.trim(),
         'codigoProducto': _productCode,
         'descripcionProducto': _productDescription,

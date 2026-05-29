@@ -115,6 +115,7 @@ const crearRegistroControl = async (req, res) => {
             procesoId,
             maquinaId,
             formularioId,
+            area,
             np,
             codigoProducto,
             descripcionProducto,
@@ -165,6 +166,7 @@ const crearRegistroControl = async (req, res) => {
               proceso_id,
               maquina_id,
               formulario_id,
+              area,
               np,
               codigo_producto,
               descripcion_producto,
@@ -177,13 +179,14 @@ const crearRegistroControl = async (req, res) => {
               fecha_registro,
               hora_registro
             )
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURDATE(), CURTIME())
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURDATE(), CURTIME())
         `,
             [
                 usuarioId,
                 procesoId,
                 maquinaId,
                 formularioId || null,
+                area || null,
                 np || null,
                 codigoProducto || null,
                 descripcionProducto || null,
